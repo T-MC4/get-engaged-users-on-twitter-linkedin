@@ -1,0 +1,6 @@
+*.json
+node_modules/
+.env
+pnpm-lock.yaml
+test/
+.DS_Store
